@@ -8,6 +8,13 @@ A small travel tracker. You type the name of a country, and it gets highlighted 
 - Colours the matching countries on the map and shows the total
 - Shows an error in the input box if the country does not exist or was already added
 
+## Screenshot
+
+Ten countries marked as visited. The data here is sample data.
+
+![World map with visited countries highlighted](docs/screenshots/map.png)
+
+
 ## Tech stack
 Node.js (ES modules), Express, EJS, pg, PostgreSQL, CSS.
 
