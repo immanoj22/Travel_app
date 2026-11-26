@@ -38,3 +38,5 @@ You need Node and PostgreSQL.
 
 ## Notes
 It is a practice project and the repo has no SQL file, so you have to create the tables yourself. Country names must be typed exactly as they appear in the table (the first letter is capitalised for you).
+
+Set `DB_PASSWORD` in your environment for the database password.
